@@ -1,0 +1,288 @@
+/* For Mobile Devices */
+@media screen and (max-width: 480px) {
+
+	/* For Navigation */
+	nav a {
+		padding: 0 10px;
+	}
+
+	.sidebar {
+		width: 100%;
+	}
+
+	/* For Footer */
+	.footer-right {
+		grid-template-columns: repeat(1, 1fr) !important;
+		grid-gap: 8px !important;
+	}
+
+	/* For Home Page Start */
+	/* Banner Section */
+	.medium-img-design {
+		width: 100%;
+		height: 250px !important;
+		margin-left: 0 !important;
+	}
+
+	.h1-heading {
+		font-size: 35px !important;
+		margin-top: 14px !important;
+	}
+
+	.h2-heading {
+		font-size: 32px !important;
+	}
+
+	.primary-para {
+		font-size: 15px !important;
+	}
+
+	.get-std-btn {
+		padding: 10px 34px !important;
+		margin-bottom: 8px !important;
+	}
+
+	/* For Home Page End */
+
+	/* Product Details Page Start */
+	.product_details-section {
+		margin: 24px 0 24px 0;
+	}
+
+	.my-product-card {
+		padding: 4px;
+	}
+
+	/* Product Details Page End */
+
+	/* Get History Button Design */
+	.get-history-btn {
+		width: 100% !important;
+	}
+
+	.float-right {
+		width: 35% !important;
+	}
+
+	.remove-margin-padding {
+		margin: 3% !important;
+	}
+}
+
+/* For iPads and Tablets Devices */
+@media screen and (max-width: 768px) {
+
+	/* For Footer */
+	.footer-right {
+		grid-template-columns: repeat(2, 2fr);
+	}
+
+	/* For Home Page Start */
+	/* Banner Section */
+	.container {
+		max-width: 100% !important;
+	}
+
+	.home-page-banner {
+		width: 100%;
+		text-align: center;
+		flex-direction: column;
+	}
+
+	.medium-img-design {
+		margin-left: 0 !important;
+	}
+
+	.primary-heading {
+		font-size: 46px;
+		margin-top: 24px;
+	}
+
+	.primary-para {
+		font-size: 17px;
+	}
+
+	.left-div {
+		width: 90% !important;
+	}
+
+	.right-div {
+		width: 90% !important;
+	}
+
+	/* Service Section */
+	.about-crm-design {
+		margin-bottom: 24px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	/* For Home Page End */
+
+	/* Product Details Page Start */
+	.product-details {
+		justify-content: center !important;
+		flex-direction: column !important;
+		gap: 1rem !important;
+	}
+
+	.left-section {
+		width: 100% !important;
+	}
+
+	.right-section {
+		width: 100% !important;
+	}
+
+	/* Product Details Page End */
+
+	/* Customer Enquiry History Page Start */
+	.customer_enquiry_list-table {
+		flex-direction: column;
+	}
+
+	.remove-margin-padding {
+		margin: 2% !important;
+	}
+
+	/* Get History Button Design */
+	.get-history-btn {
+		width: 80%;
+	}
+
+	/* Customer Enquiry History Page End */
+}
+
+/* For Laptops and Small Screens Devices */
+@media screen and (max-width: 1024px) {
+
+	/* For Navigation */
+	.hideOnMobile {
+		display: none;
+	}
+
+	.menu-button {
+		display: block;
+	}
+
+	/* For Footer */
+	.footer {
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.footer-left {
+		width: 100%;
+		align-items: center;
+	}
+
+	/* For Home Page Start */
+	/* Banner Section */
+	.container,
+	.container-md,
+	.container-sm {
+		max-width: 90% !important;
+	}
+
+	.medium-img-design {
+		width: 90%;
+		height: auto !important;
+		margin-left: 24px;
+	}
+
+	.hero-block__btn-caption {
+		line-height: 20px;
+		margin-bottom: 10px;
+	}
+
+	/* Service Section */
+	.about-crm-design {
+		grid-template-columns: repeat(2, 2fr);
+		margin-bottom: 24px;
+		text-align: center !important;
+	}
+
+	/* Why Us Section */
+	.why-crm-design {
+		justify-content: center;
+		flex-direction: column;
+	}
+
+	.left-part,
+	.right-part {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	/* For Home Page End */
+
+	/* Product Details Page Start */
+	.left-section {
+		width: 55%;
+	}
+
+	.right-section {
+		width: 45%;
+	}
+
+	/* Product Details Page End */
+
+	/* Get History Button Design */
+	.get-history-btn {
+		width: 70%;
+	}
+}
+
+/* For Large Screens and Desktops Devices */
+@media screen and (max-width: 1200px) {
+
+	/* For Navigation */
+	nav img {
+		margin-left: 8px !important;
+	}
+
+	/* For Footer */
+	.footer {
+		padding: 1.2rem !important;
+	}
+
+	/* For Home Page Start */
+	/* Service Section */
+	.our-value-section {
+		margin: 0 3% 2% 3% !important;
+	}
+
+	/* For Home Page End */
+
+	/* Profile Page Start */
+	/* For Navigation */
+	.profile-pic-design {
+		margin-left: 0 !important;
+	}
+
+	/* Profile Page End */
+
+	/* Products List Page Start */
+	.style-1 {
+		flex-direction: column;
+	}
+
+	.style-1.p-details {
+		flex-direction: row !important;
+	}
+
+	/* Products List Page End */
+
+	/* Product Details Page Start */
+	.my-product-card {
+		width: 100% !important;
+	}
+
+	/* Product Details Page End */
+}
