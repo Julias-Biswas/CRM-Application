@@ -45,7 +45,7 @@
 							class='bx bx-hide all-icon eye-icon'></i>
 					</div>
 					<div class="field button-field">
-						<button type="submit">Sign up</button>
+						<button type="submit" disabled="disabled">Sign up</button>
 					</div>
 					<div class="form-link">
 						<span>Already have an account? <a href="/signin"
