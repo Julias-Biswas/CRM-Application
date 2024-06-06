@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Home - CRM</title>
+<link rel="icon" type="image/x-icon" href="/images/company-icon.png">
 
 <!-- Manual CSS File -->
 <link rel="stylesheet" href="/css/style.css">

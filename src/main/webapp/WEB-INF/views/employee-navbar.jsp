@@ -8,6 +8,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Employee Navigation Menu</title>
+<link rel="icon" type="image/x-icon" href="/images/company-icon.png">
 
 <!-- Manual CSS File -->
 <link rel="stylesheet" href="/css/style.css">

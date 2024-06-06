@@ -7,6 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Footer</title>
+<link rel="icon" type="image/x-icon" href="/images/company-icon.png">
 
 <!-- Manual CSS File -->
 <link rel="stylesheet" href="/css/style.css">
@@ -24,9 +25,9 @@
 					<a href="javascript:void(0)"><img
 						src="/images/company-logo.png" alt="Company Logo" class="logo-img"></a>
 				</div>
-				<p class="p3-para text-center">Improve business
-					relationships. A CRM system helps companies stay connected to
-					customers, streamline processes, and improve profitability.</p>
+				<p class="p3-para text-center">Improve business relationships. A
+					CRM system helps companies stay connected to customers, streamline
+					processes, and improve profitability.</p>
 				<div class="social">
 					<a href="#" class="social-link"> <img
 						src="/images/instagram.svg" alt="" class="social-icon">

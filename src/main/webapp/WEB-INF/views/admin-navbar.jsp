@@ -8,6 +8,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Admin Navigation Menu</title>
+<link rel="icon" type="image/x-icon" href="/images/company-icon.png">
 
 <!-- Manual CSS File -->
 <link rel="stylesheet" href="/css/style.css">
