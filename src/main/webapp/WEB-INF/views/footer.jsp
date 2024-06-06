@@ -29,14 +29,18 @@
 					CRM system helps companies stay connected to customers, streamline
 					processes, and improve profitability.</p>
 				<div class="social">
-					<a href="#" class="social-link"> <img
+					<a href="https://www.instagram.com/juliasbiswas0001/"
+						target="_blank" class="social-link"> <img
 						src="/images/instagram.svg" alt="" class="social-icon">
-					</a> <a href="#" class="social-link"> <img
-						src="/images/twitterx.svg" alt="" class="social-icon">
-					</a> <a href="#" class="social-link"> <img
+					</a> <a href="https://x.com/Julias0001" target="_blank"
+						class="social-link"> <img src="/images/twitterx.svg" alt=""
+						class="social-icon">
+					</a> <a href="https://www.linkedin.com/in/julias-biswas-604953203/"
+						target="_blank" class="social-link"> <img
 						src="/images/linkedin.svg" alt="" class="social-icon">
-					</a> <a href="#" class="social-link"> <img src="/images/github.svg"
-						alt="" class="social-icon">
+					</a> <a href="https://github.com/julias-biswas" target="_blank"
+						class="social-link"> <img src="/images/github.svg" alt=""
+						class="social-icon">
 					</a>
 				</div>
 			</div>

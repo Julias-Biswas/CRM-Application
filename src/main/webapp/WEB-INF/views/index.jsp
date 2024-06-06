@@ -26,7 +26,7 @@
 				<p class="primary-para c-gray">A CRM that revolves around the
 					customer and their needs - from brand awareness to lifetime
 					loyalty. Win hearts, not wallets.</p>
-				<a href="#" class="btn get-std-btn">Get Started</a>
+				<a href="/signin" class="btn get-std-btn">Get Started</a>
 				<p class="hero-block__btn-caption">
 					FREE FOREVER <br>UNLIMITED USERS
 				</p>
@@ -48,7 +48,7 @@
 					<p class="p3-para c-gray">All the tools you'd expect from a
 						regular CRM, a bunch of tools you'd expect from a top-class CRM
 						only, and some tools you won't find anywhere.</p>
-					<a href="#" class="btn crt-acc-btn">Create Free Account</a>
+					<a href="/signup" class="btn crt-acc-btn">Create Free Account</a>
 				</div>
 			</div>
 			<div class="card custom_card">
@@ -59,7 +59,7 @@
 					<p class="p3-para c-gray">A single place for you to manage all
 						your social media profiles and messengers, track customer
 						interactions, and reply to messages and comments in real-time.</p>
-					<a href="#" class="btn crt-acc-btn">Create Free Account</a>
+					<a href="/signup" class="btn crt-acc-btn">Create Free Account</a>
 				</div>
 			</div>
 			<div class="card custom_card">
@@ -71,7 +71,7 @@
 						existing clients via the most effective channel - whether it's
 						Facebook, email, phone calls, SMS, push notifications, or
 						messengers.</p>
-					<a href="#" class="btn crt-acc-btn">Create Free Account</a>
+					<a href="/signup" class="btn crt-acc-btn">Create Free Account</a>
 				</div>
 			</div>
 			<div class="card custom_card">
@@ -82,7 +82,7 @@
 					<p class="p3-para c-gray">Manage your sales teams remotely,
 						track working hours, assign tasks, control deadlines, follow the
 						task progress, and monitor individual KPIs.</p>
-					<a href="#" class="btn crt-acc-btn">Create Free Account</a>
+					<a href="/signup" class="btn crt-acc-btn">Create Free Account</a>
 				</div>
 			</div>
 		</div>
