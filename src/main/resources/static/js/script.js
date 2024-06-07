@@ -134,8 +134,6 @@ function getSelectedCourse() {
 				document.getElementById("discountPercentageId").textContent = discountPercentage;
 
 				$('#priceDivId').css("visibility", "visible");
-
-				console.log(courseId);
 			}
 		};
 		newHttpRequest.send();

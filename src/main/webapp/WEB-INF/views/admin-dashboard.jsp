@@ -121,9 +121,6 @@
 				"${row[1]}"${not status.last ? ',' : ''}
 			</c:forEach>
 		];
-		
-		console.log("X : " + followUpsChartXValues);
-		console.log("Y : " + followUpsChartYValues);
 
 		new Chart("followUpsChartAdmin", {
 		  type: "line",
